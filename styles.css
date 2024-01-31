@@ -22,11 +22,14 @@ body {
   }
   
   h1 {
+	font-family: 'Montserrat', sans-serif; /* Adiciona a fonte Montserrat ao h1 */
+	font-weight: 700; /* Peso da fonte bold (700) */
 	font-size: 36px;
 	margin-bottom: 20px;
   }
   
   p {
+	font-family: 'Montserrat', sans-serif; /* Adiciona a fonte Montserrat ao parágrafo */
 	font-size: 18px;
 	margin-bottom: 30px;
   }
@@ -56,4 +59,3 @@ body {
 	width: 50px; /* Ajusta a largura da imagem */
 	height: 50px; /* Ajusta a altura da imagem */
   }
-  
